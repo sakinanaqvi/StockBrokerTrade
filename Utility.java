@@ -1,5 +1,3 @@
-package sakinana_CSCI201_PA2;
-
 import java.text.SimpleDateFormat;
 import java.time.Duration;
 import java.time.Instant;
