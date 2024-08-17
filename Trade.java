@@ -1,6 +1,3 @@
-package sakinana_CSCI201_PA2;
-
-
 import java.time.*;
 import java.time.format.DateTimeFormatter;
 import java.util.concurrent.*;
