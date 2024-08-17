@@ -1,5 +1,3 @@
-package sakinana_CSCI201_PA2;
-
 
 public class Stock {
     /**
